@@ -1,4 +1,4 @@
-# Industry Trends Explorer (Hackathon)
+# SPACE Industry Trends Explorer (Hackathon)
 
 A lightweight analytics UI and forecasting toolkit for industry time series.
 - **Streamlit UI**: pick industries from a dropdown and plot values across years.
@@ -94,9 +94,4 @@ git push -u origin feature/improve-ui
 # open a PR on GitHub
 ```
 
-## Notes
-- Keep large proprietary datasets out of the repo. Use the **Upload** control in the app or `.gitignore` rules.
-- If you need to demo publicly from a notebook environment, consider tunneling tools (ngrok/Cloudflare). For local macOS use, it’s not required.
 
-## License
-Choose a license for your repo (MIT/Apache-2.0/etc.) and add a `LICENSE` file if needed.
