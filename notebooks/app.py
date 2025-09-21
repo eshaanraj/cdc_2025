@@ -2,7 +2,7 @@ import os
 import glob
 import streamlit as st
 import pandas as pd
-
+#AI assisted with setting up streamlit webapp
 st.set_page_config(page_title="Industry Trends Explorer", layout="wide")
 
 st.title("📈 Industry Trends Explorer")
